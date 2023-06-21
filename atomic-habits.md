@@ -27,8 +27,45 @@ A systems-first mentality provides the antidote. When you fall in love with the 
 When all of your hard work is focused on a particular goal, what is left to push you forward, after you achieve it? True long-term thinking is goal-less thinking. It's not about any single accomplishment. It is about the cycle of endless refinement and continuous improvement. Ultimately, it is your commitment to the process, that will determine your progress.
 
 ## 2. How Your Habits Shape Your Identity (and Vice Versa)
+Outcomes are about what you get. Processes are about what you do. Identity is about what you believe.
+
+The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it.
+
+True behavior change is identity change. You might start a habit because of motivation, but the only reason you'll stick with one is that it becomes part of your identity. For example: 
+- The goal is not to read a book, the goal is to become a reader.
+- The goal is not to run a marathon, the goal is to become a runner.
+- The goal is not to learn an instrument, the goal is to become a musician.
+
+The author of the book didn't start out as a writer - he became one through his habits.
+
+Every action you take, is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity. This is one reason why meaningful change does not require radical change. Small habits can make a meaningful difference by providing evidence of a new identity.
+
+It doesn't matter if you cast a few votes for a bad behavior or an unproductive habit. Your goal is simply to win the majority of the time.
+
+Once you have a handle on the type of person you want to be, you can begin taking small steps to reinforce your desired identity. I have a friend who lost over 100 pounds by asking herself, "What would a healthy person do?" All day long, she would use this question as a guide. Would a healthy person walk or take a cab? Would a healthy person order a burrito or a salad? She figured if she acted like a healthy person long enough, eventually she would become that person.
+
+Ultimately, your habits matter, because they help you become the type of person you wish to be. Quite literally, you become your habits.
 
 ## 3. How to Build Better Habits in 4 Simple Steps
+Behaviors followed by satisfying consequences tend to be repeated, and those that produce unpleasant consequences are less likely to be repeated.
+
+A habit is a behavior that has been repeated enough times to become automatic.
+
+As habits are created, the level of activity in the brain decreases. Your brain skips the process of trial and error and creates a mental rule: if this, then that.
+
+Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks.
+
+It's only by making the fundamentals of life easier, that you can create the mental space needed for free thinking and creativity.
+
+Building habits in the present, allows you to do more of what you want in the future.
+
+The habit loop: cue, craving, response, reward; cue, craving, response, reward - that ultimately allows you to create automatic habits. 
+
+How to Create a Good Habit: 
+- The 1st law (Cue): Make it obvious.
+- The 2nd law (Craving): Make it attractive. 
+- The 3rd law (Response): Make it easy. 
+- The 4th law (Reward): Make it satisfying.
 
 ## 4. The Man Who Didn't Look Right
 
