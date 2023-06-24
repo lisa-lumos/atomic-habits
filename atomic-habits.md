@@ -68,12 +68,82 @@ How to Create a Good Habit:
 - The 4th law (Reward): Make it satisfying.
 
 ## 4. The Man Who Didn't Look Right
+Your ability to notice the relevant cues in a given situation, is the foundation for every habit you have.
+
+You don't need to be aware of the cue for a habit to begin.
+
+Once a habit is firmly rooted in your life, it is mostly non-conscious and automatic. Until you make the unconscious conscious, it will direct your life, and you will call it fate.
+
+Pointing-and-Calling is so effective, because it raises the level of awareness from a nonconscious habit, to a more conscious level.
+
+Ask your self: Does this behavior help me become the type of person I wish to be?
+
+Examples: 
+- If you waste time online, notice that you are spending your life in a way that you do not want to.
+- If you want to cut back on your junk food habit, but notice yourself grabbing another cookie, say out loud, "I'm about to eat this cookie, but I don't need it. Eating it will cause me to gain weight and hurt my health."
+
+This approach is useful even if you're simply trying to remember a task on your to-do list.
 
 ## 5. The Best Way to Start a New Habit
+Implementation intention: a plan you make beforehand, about when and where to act.
+
+An implementation intention sweeps away foggy notions, and transforms them into a concrete plan of action.
+
+The simple way to apply this strategy to your habits is to fill out this sentence:
+```
+I will [BEHAVIOR] at [TIME] in [LOCATION].
+```
+
+If you aren't sure when to start your habit, try the first day of the week/month/year. People are more likely to take action at those times, because hope is usually higher. If we have hope, we have a reason to take action. A fresh start feels motivating.
+
+Being specific about what you want and how you will achieve it, helps you say no to distractions that pull you off course.
+
+The Diderot Effect: obtaining a new possession often creates a spiral of consumption, that leads to additional purchases.
+
+No behavior happens in isolation. Each action becomes a cue that triggers the next behavior.
+
+Habit stacking: identify a current habit you already do each day, and then stack your new behavior on top. 
+
+The habit stacking formula is:
+```
+After [CURRENT HABIT], I will [NEW HABIT].
+```
+
+No matter how you use this strategy, the secret to creating a successful habit stack, is selecting the right cue to kick things off.
+
+Habit stacking works best, when the cue is highly specific, and immediately actionable.
+
+Be specific and clear: After I close the door. After I brush my teeth. After I sit down at the table. The specificity is important.
 
 ## 6. Motivation Is Overrated; Environment Often Matters More
+Your habits change depending on the room you are in, and the cues in front of you.
+
+Every habit is context dependent.
+
+Many of the actions we take each day, are shaped NOT by purposeful drive and choice, but by the most obvious option.
+
+The most powerful of all human sensory abilities, is vision. Creating obvious visual cues, can draw your attention toward a desired habit.
+
+The most persistent behaviors usually have multiple cues. 
+
+Making a better decision is easy and natural, when the cues for good habits are right in front of you.
+
+Over time your habits become associated not with a single trigger, but with the entire context surrounding the behavior.
+
+Habits can be easier to change in a new environment.
+
+The mantra I find useful is "One space, one use."
 
 ## 7. The Secret to Self-Control The 2nd Law Make It Attractive
+"Disciplined" people are better at structuring their lives in a way, that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations.
+
+You can break a habit, but you are unlikely to forget it. 
+
+One of the most practical ways to eliminate a bad habit, is to reduce exposure to the cue that causes it.
+
+Make the cues of bad habits invisible. If you are spending too much money on electronics, quit reading reviews of the latest tech gear.
+
+Self-control is a short-term strategy, not a long-term one - your energy should be spent on optimizing your environment. Make the cues of your good habits obvious, and the cues of your bad habits invisible.
 
 ## 8. How to Make a Habit Irresistible
 
