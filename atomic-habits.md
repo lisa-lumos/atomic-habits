@@ -134,7 +134,7 @@ Habits can be easier to change in a new environment.
 
 The mantra I find useful is "One space, one use."
 
-## 7. The Secret to Self-Control The 2nd Law Make It Attractive
+## 7. The Secret to Self-Control
 "Disciplined" people are better at structuring their lives in a way, that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations.
 
 You can break a habit, but you are unlikely to forget it. 
@@ -146,12 +146,39 @@ Make the cues of bad habits invisible. If you are spending too much money on ele
 Self-control is a short-term strategy, not a long-term one - your energy should be spent on optimizing your environment. Make the cues of your good habits obvious, and the cues of your bad habits invisible.
 
 ## 8. How to Make a Habit Irresistible
+Supernormal stimuli: The brain of each animal is preloaded with certain rules for behavior, and when it comes across an exaggerated version of that rule, it lights up like a Christmas tree. 
+
+The more attractive an opportunity is, the more likely it is to become habit-forming.
+
+Whenever you predict that an opportunity will be rewarding, your levels of dopamine spike in anticipation. And whenever dopamine rises, so does your motivation to act. It is the anticipation of a reward, not the fulfillment of it, that gets us to take action. So we need to make our habits attractive. 
+
+Temptation bundling works by linking an action you want to do, with an action you need to do. You're more likely to find a behavior attractive, if you get to do one of your favorite things at the same time.
 
 ## 9. The Role of Family and Friends in Shaping Your Habits
+We imitate the habits of three groups in particular:
+1. The close. We soak up the qualities and practices of those around us. Surround yourself with people who have the habits, that you want to have yourself. Join a culture where your desired behavior is the normal behavior, and you already have something in common with the group. Being a part of a group after achieving a goal is crucial to maintaining your habits.
+2. The many. The reward of being accepted, is often greater than the reward of winning an argument, looking smart, or finding truth. Most days, we'd rather be wrong with the crowd, than be right by ourselves. When changing your habits means challenging the tribe, change is unattractive. When changing your habits means fitting in with the tribe, change is very attractive.
+3. The powerful. We try to copy the behavior of successful people, because we desire success ourselves. We imitate people we envy.
 
 ## 10. How to Find and Fix the Causes of Your Bad Habits
+Reframing your habits to highlight their benefits, rather than their drawbacks, is a fast/lightweight way to reprogram your mind, and make a habit seem more attractive.
 
 ## 11. Walk Slowly, but Never Backward 
+It is easy to get stuck trying to find the "optimal" plan for change: the fastest way to lose weight, the best program to build muscle, the perfect idea for a side hustle. We are so focused on figuring out the best approach, that we never get around to taking action. "The best" is the enemy of the good.
+
+If planning doesn't lead to results, why do we do it? Sometimes we do it because we actually need to plan or learn more. But more often, we do it, because planning allows us to feel like we are making progress, without running the risk of failure.
+
+Planning makes you feel like you are getting things done. But really, you are just preparing to get something done. When preparation becomes a form of procrastination, you need to change something. You don't want to merely be planning. You want to be practicing.
+
+If you want to master a habit, the key is to start with repetition, not perfection.
+
+Repeating a habit leads to clear physical changes in the brain. Repetition is a form of change.
+
+Habits form based on frequency, not time.
+
+You need to string together enough successful attempts, until the behavior is firmly embedded in your mind, and you cross the Habit Line.
+
+To build a habit, you need to practice it. And the most effective way to make practice happen, is to adhere to the 3rd Law of Behavior Change: make it easy. Which is talked about in the next chapters. 
 
 ## 12. The Law of Least Effort
 
