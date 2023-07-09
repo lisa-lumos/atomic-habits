@@ -37,7 +37,7 @@ True behavior change is identity change. You might start a habit because of moti
 
 The author of the book didn't start out as a writer - he became one through his habits.
 
-Every action you take, is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity. This is one reason why meaningful change does not require radical change. Small habits can make a meaningful difference by providing evidence of a new identity.
+Every action you take, is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity. This is one reason why meaningful change does not require radical change. Small habits can make a meaningful difference, by providing evidence of a new identity.
 
 It doesn't matter if you cast a few votes for a bad behavior or an unproductive habit. Your goal is simply to win the majority of the time.
 
@@ -50,7 +50,7 @@ Behaviors followed by satisfying consequences tend to be repeated, and those tha
 
 A habit is a behavior that has been repeated enough times to become automatic.
 
-As habits are created, the level of activity in the brain decreases. Your brain skips the process of trial and error and creates a mental rule: if this, then that.
+As habits are created, the level of activity in the brain decreases. Your brain skips the process of trial and error, and creates a mental rule: if this, then that.
 
 Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks.
 
@@ -71,7 +71,7 @@ Your ability to notice the relevant cues in a given situation, is the foundation
 
 You don't need to be aware of the cue for a habit to begin.
 
-Once a habit is firmly rooted in your life, it is mostly non-conscious and automatic. Until you make the unconscious conscious, it will direct your life, and you will call it fate.
+Once a habit is firmly rooted in your life, it is mostly non-conscious and automatic. Until you make the unconscious conscious, it will direct your life.
 
 Pointing-and-Calling is so effective, because it raises the level of awareness from a nonconscious habit, to a more conscious level.
 
