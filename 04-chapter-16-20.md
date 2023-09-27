@@ -5,14 +5,14 @@ Habit tracking helps keep your eye on the ball: you're focused on the process, r
 
 I try to remind myself of a simple rule: never miss twice. This principle is so important, that I'll stick to it, even if I can't do a habit as well as I wanted it. Too often, with our habits, we fall into an all-or-nothing cycle. The problem is not breaking the habit; the problem is thinking that if you can't do something perfectly, then you shouldn't do it at all.
 
-The first mistake is never the one that ruins you. It is the spiral of repeated mistakes that follows. Missing once is an accident. Missing twice is the start of a new habit.
+The first mistake that you made is not the one that ruins you. It is the spiral of repeated mistakes that follows. Missing once is an accident. Missing twice is the start of a new habit.
 
 The human mind wants to "win" whatever game is being played. We focus on working long hours, instead of getting meaningful work done. We care more about getting ten thousand steps, than we do about being healthy. We teach for standardized tests, instead of emphasizing learning/curiosity/critical-thinking. We optimize for what we measure. When we choose the wrong measurement, we get the wrong behavior.
 
 ## 17. How an Accountability Partner Can Change Everything
 The more immediate the pain, the less likely the behavior. If you want to prevent bad habits, and eliminate unhealthy behaviors, then adding an instant cost to the action, is a great way to reduce their odds.
 
-To be healthy, the cost of laziness must be greater than the cost of exercise. Getting fined for smoking in a restaurant, or failing to recycle, adds consequence to an action. Behavior shifts if the punishment is painful enough, and reliably enforced.
+To be healthy, the cost of laziness must be greater than the cost of exercise. Getting fined for smoking in a restaurant, or failing to recycle, adds consequence to an action. Behavior shifts, if the punishment is painful enough, and reliably enforced.
 
 ## 18. The Truth About Talent (When Genes Matter and When They Don't)
 Until you work as hard as those you admire, don't explain away their success as luck.
@@ -24,7 +24,7 @@ Really successful people feel the same lack of motivation, as everyone else. The
 
 The greatest threat to success, is not failure, but boredom.
 
-No habit will stay interesting forever. At some point, everyone faces the same challenge on the journey of self-improvement: you have to fall in love with boredom.
+No habit will stay interesting forever. At some point, everyone faces this same challenge on the journey of self-improvement: you have to fall in love with boredom.
 
 If you only do the work when it's convenient/exciting, then you will never be consistent enough to achieve remarkable results.
 
